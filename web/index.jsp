@@ -24,13 +24,13 @@
                     table: {
                         widths: [100, 60, 55,'*', '*', '*', 100],
                         body: [
-                            [{text: '学号：105010000104', fontSize: 8,margin: [0, 11, 0, 11]},
-                                {text: '姓名：吕俊杰',fontSize: 8,margin: [0, 11, 0, 11]},
+                            [{text: '学号：123456789123', fontSize: 8,margin: [0, 11, 0, 11]},
+                                {text: '姓名：张三',fontSize: 8,margin: [0, 11, 0, 11]},
                                 {text: '性别：男', fontSize: 8,margin: [0, 11, 0, 11]},
                                 {text: '民族：回族', fontSize: 8,colSpan: 2,margin: [0, 11, 0, 11]},{},
                                 {text: '婚否：是', fontSize: 8,margin: [0, 11, 0, 11]},
                                 {text: '111',rowSpan: 3}],
-                            [{text: '身份证号：520113188112311611', fontSize: 8, colSpan: 2,margin: [0, 11, 0, 11]},{},
+                            [{text: '身份证号：654125321453625478', fontSize: 8, colSpan: 2,margin: [0, 11, 0, 11]},{},
                                 {text: '出生日期：1881-12-31',fontSize: 8,colSpan: 2,margin: [0, 11, 0, 11]},{},
                                 {text: '入学前文化程度：高中', fontSize: 8,colSpan: 2,margin: [0, 11, 0, 11]},{}],
                             [{text: '邮箱：23412341234@qq.com', fontSize: 8 ,colSpan: 2,margin: [0, 11, 0, 11]},{},
